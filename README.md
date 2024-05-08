@@ -1,2 +1,8 @@
-# Subway-Clone
-This project is a React and Tailwind CSS clone of Subway's website. It employs React's component-based structure and Tailwind CSS for styling. React hooks like useState and useEffect manage state efficiently, while animations enhance user interaction, demonstrating modern web development practices in action.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
